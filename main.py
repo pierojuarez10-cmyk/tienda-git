@@ -4,3 +4,6 @@ print("Usuario autenticado")
 print("Bienvenido, ¿en qué puedo ayudarte hoy?")
 Nombre = "Juan"
 print(Nombre)
+
+Edad = 25
+Pais = "Perú"
