@@ -7,3 +7,5 @@ print(Nombre)
 
 Edad = 25
 Pais = "Perú"
+
+print(f"Se llama {Nombre}, tiene {Edad} años y es de {Pais}")
