@@ -6,4 +6,5 @@ print("Usuario autenticado")
 "Este es el tercer cambio para unir con main"
 print("Bienvenido, ¿en qué puedo ayudarte hoy, perdon acabo solucionar un conflicto")
 "Solucionando conflicto en main"
+"NUEVA FUNCIONALIDAD DE PAGOS AGREGADA"
 
